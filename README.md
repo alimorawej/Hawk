@@ -45,14 +45,14 @@ Mobile networks have become both the generators and carriers of massive data. Bi
 #### D.	BIG DATA ANALYTICS PLATFORMS AND TOOLS 
 <p>“Apache Hadoop” is an open-source software framework for distributed storage and distributed processing of large-scale datasets. The power of clusters enforces Hadoop to store and process data at high-speed. Initially, Hadoop was developed for routine functions as a keyword classification on search engines. To cater for the requirements of various business applications, Hadoop gradually turned into general-purpose Big data operating platforms, where different data manipulations and data analytical operations can be plugged into. All the features make Hadoop particularly adept at processing or analyzing the data in mobile networks, such as Network KPI, CRM, drive test result, marketing plan, etc. this data needs to be retrieved from storage systems for analysis frequently. Meanwhile, various suitable data analysis methods for mobile networks can be integrated into Hadoop platforms.</p>
 
-
   <figure>
   <center>
  <img src="High Level Design/Hawk_Framework.png" width="%65" height="%65">
  <figcaption>Figure 2: Hawk Framework</figcaption>
   </center>
 </figure>
-
+<br />
+<br />
 
 <p><i>“Apache Spark”</i> is a popular open-source platform for large-scale data processing that is well-suited for iterative machine learning tasks. Figure 2, shows a Big data analytics framework. By allowing user programs to load data into a cluster’s memory and query it repeatedly. Spark is a unified analytics engine complete with machine learning algorithms and libraries. In contrast to Hadoop’s two-stage disk-based MapReduce paradigm, Spark’s multi-stage in-memory primitives provide performance up to 100 times faster for certain applications.</p>
 <p><i>“Flume Agent”</i> is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows.</p>
@@ -63,4 +63,34 @@ Mobile networks have become both the generators and carriers of massive data. Bi
 ### USE CASE STUDIES OF BIG DATA ANALYTICS IN MOBILE OPERATORS 
 <p>The following use case studies provide an illustration of introducing Big data analytics to mobile operators. The focus is on improving network performance, deriving valuable insights, and making the right decisions. In addition, the using search engines in any situation helps us obtain more information. Figure 3 shows a sample combination of network access applications, used in popular industrial applications for multi-vendors in a mobile network.</p>
 
+#### A.	Engineering level - Customer Claim use case
+<p> Some mobile customers report major network issues such as poor coverage or lack of signal of the mobile provider. They register customer claim by CRM application and create a new trouble ticket.</p> 
+<p> CRM applications provides limited information, e.g. geolocation, IMSI, time/date and network problem. In traditional manner, service engineers often make a resource consuming effort to investigate the cause of the problem from other existing data on the network such as RAN KPI and drive test results. Data collected is stored in different departments by the different databases, different formats, and different applications. Therefore service engineers make requests to other departments for proper data. It is a de facto requirement that the engineers be experts in various applications so that they can identify the root cause of the problem and offer solutions. </p>
+<p>But, if the service engineers have more information and data such as CDR, network planning, marketing plan, site inventory and other network data, they can create a powerful solution for both the fault error and other weak network areas.</p>
+<p>In this case, the engineer uses Hawk’s search engine for specific location or fault information on the network. Hawk then correlates data sources, using algorithms and data mining, and presents a big picture of real-time network behavior, solution suggestions, and self-learning to suggest accurate solutions for other minor or major network problem. </p>
+
+<p><i>For more detail please refer to Appendix II. </i></p>
+
+<figure>
+  <center>
+ <img src="High Level Design/.png" width="%65" height="%65">
+ <figcaption>Figure 3: Big data combination network access applications </figcaption>
+  </center>
+</figure>
+
+#### B.	CTO level – Network overload traffic used case 
+<p>The Chief Technical Officer obtains overload PS traffic notice by RAN KPI a 90-day trend report. The CTO traditionally requests RAN engineers to investigate by network performance using analysis tools and look close into clusters, sites or cells to recognize a cause of the problem. However, the CTO needs essential information to take appropriate action, and not jump to conclusions, whereby cooperation and collaboration between various departments are required. </p>
+<p>Whereas chief level manager’s responsibilities are induction reactions over the reports. The search engine in Hawk can help provide them with more information. By correlating data sources, using algorithms and data mining, Hawk can depict network overloading by real-time screen monitoring at a glance. The CTO can attain an accuracy plan for the network by observing the managing service activities or/and streaming network expansion activity or core network performance, etc.</p>
+<p>Moreover, for chief level managers, it is vital to pay attention to the granularity of input data (e.g. a drive test could be done every 3 months, performance data must be hourly, traces and GPEH could be event-based, CRM could be event-based). So aligning the inputs is a big challenge for mobile network operators. In this case, Hawk software tool can manage data alignment and analytics and potentially provide an alert to the CTO or team.</p>
+<p><i>For more detail please refer to Appendix III. </i></p>
+
+#### C.	CEO level – General Responsibility use case
+<p>Some of the CEO responsibilities in mobile network operators are: to control the direction of the company, decide budgets for all departments, take responsibility for day-to-day decisions, identifying risks and ensuring appropriate strategies based on a cost & progress with marketing & sales plan, attending board meetings and other presentations. So, the best way for the CEO to have a real-time monitoring system for overseeing all activity in real-time, is with the aid of Hawk.</p>
+<p>By correlating data sources, using algorithms and data mining, Hawk ensures accuracy and reliability within many aspects of concern for the CEO. Hawk ensures accuracy in the statement of financial position, statement of subscribers satisfaction and statement of marketing and investment position.</p>
+<p><i>For more detail please refer to Appendix IV.</i></p>
+
+## CONCLUSION 
+<p><b>Hawk</b> is the missing link for the evolution in next-generation of mobile operator’s network.</p>
+<p><b>Hawk</b> is a consulting software, which can be an indispensable part of making the mobile network operators smarter, making cost & progress more efficient and even improving the design of the next-generation mobile network architectures.</p> 
+<p>In this white paper, the connection between Big data analytics and mobile operators has been systematically explored. The paper  provides a broad overview of Big data analytics based on datasets and applications such as performance tools, CRM tools, planning tools and marketing tools. Moreover, an architectural framework for the applications of Big data analytics in mobile operators was presented. Finally, several illustrative use cases in mobile operators were provided in order to illustrate usability of <b>Hawk</b> as a consulting software for telecommunication service providers.</p>
 
