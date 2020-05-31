@@ -73,7 +73,7 @@ Mobile networks have become both the generators and carriers of massive data. Bi
 
 <figure>
   <center>
- <img src="High Level Design/.png" width="%65" height="%65">
+ <img src="High Level Design/Hawk_UsedCases.png" width="%65" height="%65">
  <figcaption>Figure 3: Big data combination network access applications </figcaption>
   </center>
 </figure>
