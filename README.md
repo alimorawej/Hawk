@@ -39,7 +39,7 @@
  <img src="High Level Design/Hawk_DataSourceCollections.png" width="%65" height="%65">
  <figcaption>Figure 1: Data Source collection and analytics stack</figcaption>
  </figure>
-
+ <br />
 
 #### B.	FROM DATA TO INSIGHT 
 <p>Successful decision-making will increasingly be derived from analytics-generated insights. The more accurate and timely they are, the better chance a decision-maker has to anticipate and profit from change. The key to effective data-driven decision-making is the ability to sift through large amounts of data; and the ability to combine data from several sources to gain a more comprehensive view of the problem. For example, drive test comparisons combined with performance data, fault management, and physical antenna characteristics.</p>
@@ -80,11 +80,10 @@
 <p><i>For more detail please refer to Appendix II. </i></p>
 
 <figure>
-  <center>
- <img src="High Level Design/Hawk_UsedCases.png" width="%65" height="%65">
- <figcaption>Figure 4: Big data combination network access </figcaption>
-  </center>
+<img src="High Level Design/Hawk_UsedCases.png" width="%65" height="%65">
+<figcaption>Figure 4: Big data combination network access </figcaption>
 </figure>
+<br />
 
 #### B.	CTO level – Network overload traffic used case 
 <p>The Chief Technical Officer obtains overload PS traffic notice by RAN KPI a 90-day trend report. The CTO traditionally requests RAN engineers to investigate by network performance using analysis tools and look close into clusters, sites or cells to recognize a cause of the problem. However, the CTO needs essential information to take appropriate action, and not jump to conclusions, whereby cooperation and collaboration between various departments are required. </p>
