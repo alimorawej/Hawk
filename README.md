@@ -1,5 +1,5 @@
-# Hawk 
-## <center><i>"A Mobile Network Operators Consulting"</i></center>
+# <img src="Hawk.png" width="134" height="75"> Hawk 
+## <i>"A Mobile Network Operators Consulting"</i>
 
 ### INTRODUCTION
 
@@ -45,7 +45,7 @@
 <p>The large-scale collected datasets reside at different locations with different formats. Thus, the gathered datasets are usually in a raw state with much redundancy, inconsistency or useless information. Meanwhile, the complicated vast amount of semi-structured and unstructured data make it impossible to fit them into the relational database with tables of columns & rows. NoSQL databases are becoming the alternative technology for Big data. To avoid unnecessary storage space, and ensure the processing efficiency, the data should be preprocessed to be ready for data analysis, before it is loaded into the database. These processes also involve massive distributed file systems, parallel computing frameworks, NoSQL databases, real-time streaming processing, intelligent pattern recognition, natural language understanding, and expert knowledge bases. For example, in order to correlate and normalize the dataset, the data collected from mobile Apps, geolocation, network logs, CDRs, and weblogs will not be stored directly in a storage system until it is preprocessed. Three common data preprocessing techniques are integration, cleaning and redundancy elimination.</p>
 
 #### D.	BIG DATA ANALYTICS PLATFORMS AND TOOLS 
-<p>“Apache Hadoop” is an open-source software framework for distributed storage and distributed processing of large-scale datasets. The power of clusters enforces Hadoop to store and process data at high-speed. Initially, Hadoop was developed for routine functions as a keyword classification on search engines. To cater for the requirements of various business applications, Hadoop gradually turned into general-purpose Big data operating platforms, where different data manipulations and data analytical operations can be plugged into. All the features make Hadoop particularly adept at processing or analyzing the data in mobile networks, such as Network KPI, CRM, drive test result, marketing plan, etc. this data needs to be retrieved from storage systems for analysis frequently. Meanwhile, various suitable data analysis methods for mobile networks can be integrated into Hadoop platforms.</p>
+<p><i>“Apache Hadoop”</i> is an open-source software framework for distributed storage and distributed processing of large-scale datasets. The power of clusters enforces Hadoop to store and process data at high-speed. Initially, Hadoop was developed for routine functions as a keyword classification on search engines. To cater for the requirements of various business applications, Hadoop gradually turned into general-purpose Big data operating platforms, where different data manipulations and data analytical operations can be plugged into. All the features make Hadoop particularly adept at processing or analyzing the data in mobile networks, such as Network KPI, CRM, drive test result, marketing plan, etc. this data needs to be retrieved from storage systems for analysis frequently. Meanwhile, various suitable data analysis methods for mobile networks can be integrated into Hadoop platforms.</p>
 
   <figure>
   <center>
