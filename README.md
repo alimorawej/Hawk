@@ -78,7 +78,7 @@
 <p>But, if the service engineers have more information and data such as CDR, network planning, marketing plan, site inventory and other network data, they can create a powerful solution for both the fault error and other weak network areas.</p>
 <p>In this case, the engineer uses Hawk’s search engine for specific location or fault information on the network. Hawk then correlates data sources, using algorithms and data mining, and presents a big picture of real-time network behavior, solution suggestions, and self-learning to suggest accurate solutions for other minor or major network problem. </p>
 
-<p><i>For more detail please refer to Appendix II. </i></p>
+<p><i>For more detail please refer to <a href=Appendix II.md> Appendix II </a>.</i></p>
 
 <figure>
 <img src="High Level Design/Hawk_UsedCases.png" width="%65" height="%65">
