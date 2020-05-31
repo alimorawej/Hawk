@@ -56,7 +56,6 @@
   </center>
 </figure>
 <br />
-<br />
 
 <p><i>“Apache Spark”</i> is a popular open-source platform for large-scale data processing that is well-suited for iterative machine learning tasks. Figure 2, shows a Big data analytics framework. By allowing user programs to load data into a cluster’s memory and query it repeatedly. Spark is a unified analytics engine complete with machine learning algorithms and libraries. In contrast to Hadoop’s two-stage disk-based MapReduce paradigm, Spark’s multi-stage in-memory primitives provide performance up to 100 times faster for certain applications.</p>
 <p><i>“Flume Agent”</i> is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows.</p>
@@ -85,7 +84,7 @@
 <figure>
   <center>
  <img src="High Level Design/Hawk_UsedCases.png" width="%65" height="%65">
- <figcaption>Figure 4: Big data combination network access applications </figcaption>
+ <figcaption>Figure 4: Big data combination network access </figcaption>
   </center>
 </figure>
 
