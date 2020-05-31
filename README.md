@@ -1,7 +1,9 @@
 # Hawk 
-### "A Mobile Network Operators Consulting"
+## <center><i>"A Mobile Network Operators Consulting"</i></center>
 
-Mobile networks have become both the generators and carriers of massive data. Big data analytics can improve the performance of mobile networks and maximize the revenue of operators. Big data technology brings about new opportunities to telecom operators faced with increasingly complex networks. Operators can use Big data technology to improve operational efficiency and network intelligence. A significant feature of Big data analytics is real-time processing. With Big data analytics, operators can monitor their infrastructure in real-time, and make autonomous plus dynamic decisions, and schedule activities. This creates new market opportunities, optimizes the network, minimizes operation and maximizes the revenue of operators. Consulting software will certainly bring great benefits such as user satisfaction, operation efficiency, and business innovation for telecom operators.
+### INTRODUCTION
+
+<P>Mobile networks have become both the generators and carriers of massive data. Big data analytics can improve the performance of mobile networks and maximize the revenue of operators. Big data technology brings about new opportunities to telecom operators faced with increasingly complex networks. Operators can use Big data technology to improve operational efficiency and network intelligence. A significant feature of Big data analytics is real-time processing. With Big data analytics, operators can monitor their infrastructure in real-time, and make autonomous plus dynamic decisions, and schedule activities. This creates new market opportunities, optimizes the network, minimizes operation and maximizes the revenue of operators. Consulting software will certainly bring great benefits such as user satisfaction, operation efficiency, and business innovation for telecom operators.</P>
 
 ### BIG DATA FOR MOBILE OPERATORS
 <P>   Big data fundamentally is not only storing and managing data – it is also deploying powerful real-time analytics and visualization tools, collaboration platforms and the ability to automatically create links with existing applications vital to the operator’s business. The first step is to collect data from a variety of sources such as network and non-network, structured and unstructured.</P>
