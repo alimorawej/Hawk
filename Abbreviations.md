@@ -1,4 +1,4 @@
-# Abbreviations
+# <img src="Hawk.png" width="134" height="75"> Abbreviations
 
 <p><b>AI:</b> Artificial intelligence.</p>
 <p><b>Cell:</b> the node in the mobile network where the wireless connection is stablished with the mobile device (Mobile handset).</p>
