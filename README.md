@@ -26,7 +26,14 @@ Mobile networks have become both the generators and carriers of massive data. Bi
 <li><i>Configuration Management:</i> This provides detailed configuration data for network elements, including but not limited to eNodeB, MME, SGW, PGW, HSS, SGSN, MSC, and BSC/RNC.</li>
 <li><i>Site Inventory:</i> This provides site information based on a date such as a site type, tower height, radio, transmission equipment, antenna type, azimuth, power system, tilts, etc.</li>
 </ul>
- <img src="Hawk_DataSourceCollection.png" width="1300" height="740"> 
+
+  <figure>
+  <center>
+ <img src="Hawk_DataSourceCollection.png" width="%70" height="%70">
+ <figcaption>Figure 1: Data Source collection and analytics stack</figcaption>
+  </center>
+</figure>
+
 
 #### B.	FROM DATA TO INSIGHT 
 <p>Successful decision-making will increasingly be derived from analytics-generated insights. The more accurate and timely they are, the better chance a decision-maker has to anticipate and profit from change. The key to effective data-driven decision-making is the ability to sift through large amounts of data; and the ability to combine data from several sources to gain a more comprehensive view of the problem. For example, drive test comparisons combined with performance data, fault management, and physical antenna characteristics.</p>
