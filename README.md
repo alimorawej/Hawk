@@ -60,7 +60,7 @@
 
 <p><i><b>“Apache Spark”</b></i> is a popular open-source platform for large-scale data processing that is well-suited for iterative machine learning tasks. Figure 2, shows a Big data analytics framework. By allowing user programs to load data into a cluster’s memory and query it repeatedly. Spark is a unified analytics engine complete with machine learning algorithms and libraries. In contrast to Hadoop’s two-stage disk-based MapReduce paradigm, Spark’s multi-stage in-memory primitives provide performance up to 100 times faster for certain applications.</p>
 <p><i><b>“Flume Agent”</b></i> is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows.</p>
-<p>For this architecture we have designed analogous hardware, figure 3. shown block diagram architecture.</p>
+<p>For this architecture we have designed analogous hardware, figure 3. shown block diagram architecture <a href="https://github.com/alimorawej/Hawk/blob/master/Appendix%20I.md">Appendix I.</a></p>
 
 <figure>
 <img src="High Level Design/Hawk_BlockDiagram.png" width="%65" height="%65">
@@ -78,7 +78,7 @@
 <p>But, if the service engineers have more information and data such as CDR, network planning, marketing plan, site inventory and other network data, they can create a powerful solution for both the fault error and other weak network areas.</p>
 <p>In this case, the engineer uses Hawk’s search engine for specific location or fault information on the network. Hawk then correlates data sources, using algorithms and data mining, and presents a big picture of real-time network behavior, solution suggestions, and self-learning to suggest accurate solutions for other minor or major network problem. </p>
 
-<p><i>For more detail please refer to <a href="https://github.com/alimorawej/Hawk/blob/master/Appendix%20II.md"> Appendix II </a>.</i></p>
+<p><i>For more detail please refer to <a href="https://github.com/alimorawej/Hawk/blob/master/Appendix%20II.md"> Appendix II. </a></i></p>
 
 <figure>
 <img src="High Level Design/Hawk_UsedCases.png" width="%65" height="%65">
@@ -90,12 +90,12 @@
 <p>The Chief Technical Officer obtains overload PS traffic notice by RAN KPI a 90-day trend report. The CTO traditionally requests RAN engineers to investigate by network performance using analysis tools and look close into clusters, sites or cells to recognize a cause of the problem. However, the CTO needs essential information to take appropriate action, and not jump to conclusions, whereby cooperation and collaboration between various departments are required. </p>
 <p>Whereas chief level manager’s responsibilities are induction reactions over the reports. The search engine in Hawk can help provide them with more information. By correlating data sources, using algorithms and data mining, Hawk can depict network overloading by real-time screen monitoring at a glance. The CTO can attain an accuracy plan for the network by observing the managing service activities or/and streaming network expansion activity or core network performance, etc.</p>
 <p>Moreover, for chief level managers, it is vital to pay attention to the granularity of input data (e.g. a drive test could be done every 3 months, performance data must be hourly, traces and GPEH could be event-based, CRM could be event-based). So aligning the inputs is a big challenge for mobile network operators. In this case, Hawk software tool can manage data alignment and analytics and potentially provide an alert to the CTO or team.</p>
-<p><i>For more detail please refer to Appendix III. </i></p>
+<p><i>For more detail please refer to<a href="https://github.com/alimorawej/Hawk/blob/master/Appendix%20III.md"> Appendix III.</a></i></p>
 
 #### C.	CEO level – General Responsibility use case
 <p>Some of the CEO responsibilities in mobile network operators are: to control the direction of the company, decide budgets for all departments, take responsibility for day-to-day decisions, identifying risks and ensuring appropriate strategies based on a cost & progress with marketing & sales plan, attending board meetings and other presentations. So, the best way for the CEO to have a real-time monitoring system for overseeing all activity in real-time, is with the aid of Hawk.</p>
 <p>By correlating data sources, using algorithms and data mining, Hawk ensures accuracy and reliability within many aspects of concern for the CEO. Hawk ensures accuracy in the statement of financial position, statement of subscribers satisfaction and statement of marketing and investment position.</p>
-<p><i>For more detail please refer to Appendix IV.</i></p>
+<p><i>For more detail please refer to<a href="https://github.com/alimorawej/Hawk/blob/master/Appendix%20VI.md"> Appendix IV.</a></i></p>
 
 ## CONCLUSION 
 <p><b>Hawk</b> is the missing link for the evolution in next-generation of mobile operator’s network.</p>
