@@ -5,6 +5,10 @@
 
 <P>Mobile networks have become both the generators and carriers of massive data. Big data analytics can improve the performance of mobile networks and maximize the revenue of operators. Big data technology brings about new opportunities to telecom operators faced with increasingly complex networks. Operators can use Big data technology to improve operational efficiency and network intelligence. A significant feature of Big data analytics is real-time processing. With Big data analytics, operators can monitor their infrastructure in real-time, and make autonomous plus dynamic decisions, and schedule activities. This creates new market opportunities, optimizes the network, minimizes operation and maximizes the revenue of operators. Consulting software will certainly bring great benefits such as user satisfaction, operation efficiency, and business innovation for telecom operators.</P>
 
+<figure>
+<img src="High Level Design/Hawk_NetworkDiagram.png" width="%65" height="%65">
+</figure>
+ 
 ### BIG DATA FOR MOBILE OPERATORS
 <P>   Big data fundamentally is not only storing and managing data – it is also deploying powerful real-time analytics and visualization tools, collaboration platforms and the ability to automatically create links with existing applications vital to the operator’s business. The first step is to collect data from a variety of sources such as network and non-network, structured and unstructured.</P>
 <P>   Big data technology can address problems associated with rapid data growth, scalability, and high cost. Telecom operators might produce 10TB of raw data per day and store the same in a file format. After processing, data is reduced to 550 GB and saved in a database format. This data is often archived for a long time. Handling such a large amount of data is quite difficult for the traditional file system with a relational database.</P>
@@ -31,12 +35,10 @@
 <li><i>Site Inventory:</i> This provides site information based on a date such as a site type, tower height, radio, transmission equipment, antenna type, azimuth, power system, tilts, etc.</li>
 </ul>
 
-  <figure>
-  <center>
+ <figure>
  <img src="High Level Design/Hawk_DataSourceCollections.png" width="%65" height="%65">
  <figcaption>Figure 1: Data Source collection and analytics stack</figcaption>
-  </center>
-</figure>
+ </figure>
 
 
 #### B.	FROM DATA TO INSIGHT 
@@ -49,11 +51,9 @@
 #### D.	BIG DATA ANALYTICS PLATFORMS AND TOOLS 
 <p><i>“Apache Hadoop”</i> is an open-source software framework for distributed storage and distributed processing of large-scale datasets. The power of clusters enforces Hadoop to store and process data at high-speed. Initially, Hadoop was developed for routine functions as a keyword classification on search engines. To cater for the requirements of various business applications, Hadoop gradually turned into general-purpose Big data operating platforms, where different data manipulations and data analytical operations can be plugged into. All the features make Hadoop particularly adept at processing or analyzing the data in mobile networks, such as Network KPI, CRM, drive test result, marketing plan, etc. this data needs to be retrieved from storage systems for analysis frequently. Meanwhile, various suitable data analysis methods for mobile networks can be integrated into Hadoop platforms.</p>
 
-  <figure>
-  <center>
- <img src="High Level Design/Hawk_Framework.png" width="%65" height="%65">
- <figcaption>Figure 2: Hawk Framework</figcaption>
-  </center>
+<figure>
+<img src="High Level Design/Hawk_Framework.png" width="%65" height="%65">
+<figcaption>Figure 2: Hawk Framework</figcaption>
 </figure>
 <br />
 
@@ -62,10 +62,8 @@
 <p>For this architecture we have designed analogous hardware, figure 3. shown block diagram architecture.</p>
 
 <figure>
-  <center>
- <img src="High Level Design/Hawk_BlockDiagram.png" width="%65" height="%65">
- <figcaption>Figure 3: Hawk Block Diagram</figcaption>
-  </center>
+<img src="High Level Design/Hawk_BlockDiagram.png" width="%65" height="%65">
+<figcaption>Figure 3: Hawk Block Diagram</figcaption>
 </figure>
 <br />
 
