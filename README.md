@@ -44,3 +44,21 @@ Mobile networks have become both the generators and carriers of massive data. Bi
 
 #### D.	BIG DATA ANALYTICS PLATFORMS AND TOOLS 
 <p>“Apache Hadoop” is an open-source software framework for distributed storage and distributed processing of large-scale datasets. The power of clusters enforces Hadoop to store and process data at high-speed. Initially, Hadoop was developed for routine functions as a keyword classification on search engines. To cater for the requirements of various business applications, Hadoop gradually turned into general-purpose Big data operating platforms, where different data manipulations and data analytical operations can be plugged into. All the features make Hadoop particularly adept at processing or analyzing the data in mobile networks, such as Network KPI, CRM, drive test result, marketing plan, etc. this data needs to be retrieved from storage systems for analysis frequently. Meanwhile, various suitable data analysis methods for mobile networks can be integrated into Hadoop platforms.</p>
+
+
+  <figure>
+  <center>
+ <img src="Hawk_Framework.png" width="%65" height="%65">
+ <figcaption>Figure 2: Hawk Framework</figcaption>
+  </center>
+</figure>
+<br>
+<p><i>“Apache Spark”</i> is a popular open-source platform for large-scale data processing that is well-suited for iterative machine learning tasks. Figure 2, shows a Big data analytics framework. By allowing user programs to load data into a cluster’s memory and query it repeatedly. Spark is a unified analytics engine complete with machine learning algorithms and libraries. In contrast to Hadoop’s two-stage disk-based MapReduce paradigm, Spark’s multi-stage in-memory primitives provide performance up to 100 times faster for certain applications.</p>
+<p><i>“Flume Agent”</i> is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows.</p>
+
+<p>For this architecture we have designed analogous hardware, please refer to Appendix I.</p>
+
+### USE CASE STUDIES OF BIG DATA ANALYTICS IN MOBILE OPERATORS 
+<p>The following use case studies provide an illustration of introducing Big data analytics to mobile operators. The focus is on improving network performance, deriving valuable insights, and making the right decisions. In addition, the using search engines in any situation helps us obtain more information. Figure 3 shows a sample combination of network access applications, used in popular industrial applications for multi-vendors in a mobile network.</p>
+
+
