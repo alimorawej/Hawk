@@ -26,13 +26,13 @@
 #### A.	DATA SOURCE COLLECTION
 <p>The mobile service provider needs to support data collection as shown in Figure 1, from various heterogeneous data sources in order to accurately reflect the quality of end-to-end services and customer experience. Some data sources include: </p>
 <ul>
-  <li><i>Customer Relation Management:</i> This includes detailed customer information such as subscription profile, IMSI, trouble ticket, and SLA.</li>
-<li><i>Active Probing:</i> This includes test pack that is added to the existing network to obtain end-to-end metric data.</li>
-<li><i>Passive Probing:</i> This is used when professional staff puts probes into the network interfaces, such as A/Gn interfaces, etc. to collect the signaling data.</li> 
-<li><i>Performance Management:</i> This includes network access KPIs and network element KPIs, both of which are obtained through the OMC or NMS interface.</li>
-<li><i>xDR data:</i> This includes MR, CDR and TDR data, which are delivered through relative interfaces on the equipment.</li>
-<li><i>Configuration Management:</i> This provides detailed configuration data for network elements, including but not limited to eNodeB, MME, SGW, PGW, HSS, SGSN, MSC, and BSC/RNC.</li>
-<li><i>Site Inventory:</i> This provides site information based on a date such as a site type, tower height, radio, transmission equipment, antenna type, azimuth, power system, tilts, etc.</li>
+ <li><i><b>Customer Relation Management:</b></i> This includes detailed customer information such as subscription profile, IMSI, trouble ticket, and SLA.</li>
+<li><i><b>Active Probing:</b></i> This includes test pack that is added to the existing network to obtain end-to-end metric data.</li>
+<li><i><b>Passive Probing:</b></i> This is used when professional staff puts probes into the network interfaces, such as A/Gn interfaces, etc. to collect the signaling data.</li> 
+<li><i><b>Performance Management:</b></i> This includes network access KPIs and network element KPIs, both of which are obtained through the OMC or NMS interface.</li>
+<li><i><b>xDR data:</b></i> This includes MR, CDR and TDR data, which are delivered through relative interfaces on the equipment.</li>
+<li><i><b>Configuration Management:</b></i> This provides detailed configuration data for network elements, including but not limited to eNodeB, MME, SGW, PGW, HSS, SGSN, MSC, and BSC/RNC.</li>
+<li><i><b>Site Inventory:</b></i> This provides site information based on a date such as a site type, tower height, radio, transmission equipment, antenna type, azimuth, power system, tilts, etc.</li>
 </ul>
 
  <figure>
