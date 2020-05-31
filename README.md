@@ -29,7 +29,7 @@ Mobile networks have become both the generators and carriers of massive data. Bi
 
   <figure>
   <center>
- <img src="Hawk_DataSourceCollection.png" width="%70" height="%70">
+ <img src="" width="%70" height="%70">
  <figcaption>Figure 1: Data Source collection and analytics stack</figcaption>
   </center>
 </figure>
