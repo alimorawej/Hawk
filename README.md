@@ -13,8 +13,10 @@
 
 ### DATA COLLECTION 
 <P> Big data in mobile networks can be obtained from either internal or external sources. Data collection methods can be divided into two categories: </P> 
-1.	Through data sources.<BR />
-2.	Via auxiliary tools. <BR />
+<ol>
+<li>Through data sources.</li>
+<li>Via auxiliary tools. </li>
+</ol>  
 <P>The data comes from Customer Relationship Management (CRM), Operation/Business Support Systems (OSS/BSS), drive test equipment, walk test equipment, network planning, performance management, fault management, marketing & sales plan, configuration management, signaling data, transmission data and geological locations. </P>
 
 #### A.	DATA SOURCE COLLECTION
