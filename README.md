@@ -112,6 +112,6 @@
 
 <p><b>eMail:</b><i> ali.morawej@gmail.com </i></p>
 <p><b>Mobile:</b> +98 912 649 3138 </p>
-<p><b>Linkedin</b><a href="https://www.linkedin.com/in/alimorawej/">Ali Morawej<a></p>
+<p><b>Linkedin</b><a href="https://www.linkedin.com/in/alimorawej/"> Ali Morawej <a></p>
  <br />
  <br />
