@@ -102,3 +102,13 @@
 <p><b>Hawk</b> is a consulting software, which can be an indispensable part of making the mobile network operators smarter, making cost & progress more efficient and even improving the design of the next-generation mobile network architectures.</p> 
 <p>In this white paper, the connection between Big data analytics and mobile operators has been systematically explored. The paper  provides a broad overview of Big data analytics based on datasets and applications such as performance tools, CRM tools, planning tools and marketing tools. Moreover, an architectural framework for the applications of Big data analytics in mobile operators was presented. Finally, several illustrative use cases in mobile operators were provided in order to illustrate usability of <b>Hawk</b> as a consulting software for telecommunication service providers.</p>
 
+## About Author
+
+<p> Holding PhD in Telecommunication Engineering from University of Manitoba, Canada. Over 25 year of experiences in international telecommunications and computer engineer, accruing business in the area of wireless mobile networks from vendors and operators. Creating and leading the mobile network group division.</p> 
+<p> Involved in R&D, product management, software development and network computing, IoT technologies. </p>
+<p>During his professional work he occupied Senior hardware engineer, Senior software engineer, Senior project manager, Account manager, and CTO and head of R&D positions.</p><br />
+
+## Contact Information
+
+<p><b>eMail:</b><i> ali.morawej@gmail.com </i></p>
+<p><b>Mobile:</b> +98 912 649 3138 </p><br />
