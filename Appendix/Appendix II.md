@@ -1,5 +1,5 @@
 
-# <img src="Hawk.png" width="134" height="75"> Appendix II
+# <img src="../Hawk.png" width="134" height="75"> Appendix II
 
 ### Case Study A: Engineering level - Customer Claim Analysis.
 
