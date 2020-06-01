@@ -95,7 +95,7 @@
 #### C.	CEO level – General Responsibility use case
 <p>Some of the CEO responsibilities in mobile network operators are: to control the direction of the company, decide budgets for all departments, take responsibility for day-to-day decisions, identifying risks and ensuring appropriate strategies based on a cost & progress with marketing & sales plan, attending board meetings and other presentations. So, the best way for the CEO to have a real-time monitoring system for overseeing all activity in real-time, is with the aid of Hawk.</p>
 <p>By correlating data sources, using algorithms and data mining, Hawk ensures accuracy and reliability within many aspects of concern for the CEO. Hawk ensures accuracy in the statement of financial position, statement of subscribers satisfaction and statement of marketing and investment position.</p>
-<p><i>For more detail please refer to<a href="https://github.com/alimorawej/Hawk/tree/master/Appendix/Appendix%20VI.md"> Appendix IV.</a></i></p>
+<p><i>For more detail please refer to<a href="https://github.com/alimorawej/Hawk/blob/master/Appendix/Appendix%20IV.md"> Appendix IV.</a></i></p>
 
 ## CONCLUSION 
 <p><b>Hawk</b> is the missing link for the evolution in next-generation of mobile operator’s network.</p>
