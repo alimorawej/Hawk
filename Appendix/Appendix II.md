@@ -1,7 +1,7 @@
 
-# <img src="../Hawk.png" width="134" height="75"> Appendix II
+# <img src="../Hawk.png" width="134" height="75"> Appendix II _ Case Study A:
 
-### Case Study A: Engineering level - Customer Claim Analysis.
+###  Engineering level - Customer Claim Analysis.
 
 <p> Throughout this case study it is assumed that a complaint is recorded by the user and that after initial filtering the complaint is passed to the responsible engineer for further investigation. Without Hawk looking for all the necessary information for trouble shooting is a time consuming task. Plus as the mobile networks get more crowded with new nodes,  the collection of the relevant data in a presentable format, will take a considerable amount of time .The consulting software Hawk could considerably save this time by searching the available data and providing it in a format that would be much time efficient for the engineer. In addition, with the help of Artificial Intelligence Hawk gives smart hints and suggestions.  In time, then Hawk looks into more cases to learn from them.</p>
 <p>Below are typical process (Streisand of data) that is used for solving the case of reported complaint by a user of a mobile operator.</p>
