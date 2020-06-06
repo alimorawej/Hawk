@@ -7,6 +7,7 @@
 <ul>
   <li><a href=https://www.linkedin.com/in/ali-rahmanian-b6185311/><b> Ali Rahmanian </b></a> </li>
   <li><a href=https://www.linkedin.com/in/hamed-behrooz-69422122/><b> Hamed Behrouze </b></a> </li>
+  <li><a href=https://www.linkedin.com/in/bob-mcleod-3a932312/><b> Bob McLeod </b></a> </li>
 </ul>
 <br />
 <p>All rights reserved.</p>
