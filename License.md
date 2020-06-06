@@ -3,8 +3,14 @@
 
 <p>Copyright (c) 2017-2020, Ali Morawej</p>
 
+<p><u> Special thanks to my friends for them contribution. </u><p>
+<ul>
+  <li><a href=https://www.linkedin.com/in/ali-rahmanian-b6185311/><b> Ali Rahmanian </b></a> </li>
+  <li><a href=https://www.linkedin.com/in/hamed-behrooz-69422122/><b> Hamed Behrouze </b></a> </li>
+</ul>
+<br />
 <p>All rights reserved.</p>
-
+<br />
 
 <p>THIS DOCUMENT IS PROVIDED BY THE COPYRIGHT HOLDERS "AS IS" AND ANY
 EXPRESS, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
