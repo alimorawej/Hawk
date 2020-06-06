@@ -1,7 +1,7 @@
 
 # <img src="Hawk.png" width="134" height="75"> License
 
-<p>Copyright (c) 2017-2020, Ali Morawej</p>
+<p>Copyright &copy 2017-2020, Ali Morawej</p>
 
 <p><u> Special thanks to my friends for them contribution. </u><p>
 <ul>
